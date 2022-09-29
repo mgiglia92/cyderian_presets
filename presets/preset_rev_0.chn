@@ -1,0 +1,28 @@
+/preamp +0.0 OFF
+/config "Backing R" 55 GN
+/eq OFF
+/eq/1 PEQ 124.7 +0.00 2.0
+/eq/2 PEQ 496.6 +0.00 2.0
+/eq/3 PEQ 1k97 +0.00 2.0
+/eq/4 HShv 10k02 +0.00 2.0
+/mix/01 ON   0.0 +100 EQ-> 0
+/mix/02 ON   -oo
+/mix/03 ON   -oo +100 EQ-> 0
+/mix/04 ON   -oo
+/mix/05 ON   -oo +100 EQ-> 0
+/mix/06 ON   -oo
+/mix/07 ON   0.0 +100 EQ-> 0
+/mix/08 ON   0.0
+/mix/09 ON   -oo +100 POST 0
+/mix/10 ON   -oo
+/mix/11 ON   -oo +100 POST 0
+/mix/12 ON   -oo
+/mix/13 ON   -oo +100 POST 0
+/mix/14 ON   -oo
+/mix/15 ON   -oo +100 POST 0
+/mix/16 ON   -oo
+/mix/fader   0.0
+/mix/st ON
+/mix/pan +100
+/mix/mono OFF
+/mix/mlevel   -oo
